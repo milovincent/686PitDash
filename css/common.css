@@ -9,3 +9,6 @@
 .hidden {
     display: none;
 }
+.bg-light {
+  background-color: #8F2A2B;
+}
