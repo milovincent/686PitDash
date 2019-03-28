@@ -1,17 +1,21 @@
 var defaults = [];
-defaults["teamkey"] = "frc5980";
-defaults["eventkey"] = "2019miwmi";
+defaults["teamkey"] = "frc686";
+defaults["eventkey"] = "2019chcmp";
 defaults["streamurl"] = "[auto]";
 defaults["showsponsers"] = 1;
 defaults["sponserpics"] = [
-    "https://github.com/sykeben/BlueDashPro/raw/master/img/sponsers/1.png",
-    "https://github.com/sykeben/BlueDashPro/raw/master/img/sponsers/2.png",
-    "https://github.com/sykeben/BlueDashPro/raw/master/img/sponsers/3.png",
-    "https://github.com/sykeben/BlueDashPro/raw/master/img/sponsers/4.png",
-    "https://github.com/sykeben/BlueDashPro/raw/master/img/sponsers/5.png",
-    "https://github.com/sykeben/BlueDashPro/raw/master/img/sponsers/6.png",
-    "https://github.com/sykeben/BlueDashPro/raw/master/img/sponsers/7.png",
-    "https://github.com/sykeben/BlueDashPro/raw/master/img/sponsers/8.png"
+  "frc.magrittescow.com/bovine/pits/img/sponsors/1.png",
+"frc.magrittescow.com/bovine/pits/img/sponsors/2.png",
+"frc.magrittescow.com/bovine/pits/img/sponsors/3.png",
+"frc.magrittescow.com/bovine/pits/img/sponsors/4.png",
+"frc.magrittescow.com/bovine/pits/img/sponsors/5.png",
+"frc.magrittescow.com/bovine/pits/img/sponsors/6.png",
+"frc.magrittescow.com/bovine/pits/img/sponsors/7.png",
+"frc.magrittescow.com/bovine/pits/img/sponsors/8.png",
+"frc.magrittescow.com/bovine/pits/img/sponsors/9.png",
+"frc.magrittescow.com/bovine/pits/img/sponsors/10.png",
+"frc.magrittescow.com/bovine/pits/img/sponsors/11.png",
+"frc.magrittescow.com/bovine/pits/img/sponsors/12.png"
 ];
 
 function loadDefaults(loadsetup) {
@@ -27,7 +31,7 @@ function loadDefaults(loadsetup) {
         setSetting("streamurl", defaults["showsponsers"]);
     }
     if (loadsetup) {
-        doSave();   
+        doSave();
         loadSetup();
         doSave();
     }
