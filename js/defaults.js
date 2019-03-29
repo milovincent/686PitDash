@@ -5,17 +5,17 @@ defaults["streamurl"] = "[auto]";
 defaults["showsponsers"] = 1;
 defaults["sponserpics"] = [
   "frc.magrittescow.com/bovine/pits/img/sponsors/1.png",
-"frc.magrittescow.com/bovine/pits/img/sponsors/2.png",
-"frc.magrittescow.com/bovine/pits/img/sponsors/3.png",
-"frc.magrittescow.com/bovine/pits/img/sponsors/4.png",
-"frc.magrittescow.com/bovine/pits/img/sponsors/5.png",
-"frc.magrittescow.com/bovine/pits/img/sponsors/6.png",
-"frc.magrittescow.com/bovine/pits/img/sponsors/7.png",
-"frc.magrittescow.com/bovine/pits/img/sponsors/8.png",
-"frc.magrittescow.com/bovine/pits/img/sponsors/9.png",
-"frc.magrittescow.com/bovine/pits/img/sponsors/10.png",
-"frc.magrittescow.com/bovine/pits/img/sponsors/11.png",
-"frc.magrittescow.com/bovine/pits/img/sponsors/12.png"
+  "frc.magrittescow.com/bovine/pits/img/sponsors/2.png",
+  "frc.magrittescow.com/bovine/pits/img/sponsors/3.png",
+  "frc.magrittescow.com/bovine/pits/img/sponsors/4.png",
+  "frc.magrittescow.com/bovine/pits/img/sponsors/5.png",
+  "frc.magrittescow.com/bovine/pits/img/sponsors/6.png",
+  "frc.magrittescow.com/bovine/pits/img/sponsors/7.png",
+  "frc.magrittescow.com/bovine/pits/img/sponsors/8.png",
+  "frc.magrittescow.com/bovine/pits/img/sponsors/9.png",
+  "frc.magrittescow.com/bovine/pits/img/sponsors/10.png",
+  "frc.magrittescow.com/bovine/pits/img/sponsors/11.png",
+  "frc.magrittescow.com/bovine/pits/img/sponsors/12.png"
 ];
 
 function loadDefaults(loadsetup) {
